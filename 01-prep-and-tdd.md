@@ -2,7 +2,7 @@
 
 - [JS callback functions](#JavaScript-Callback-Functions)
 - [JS Promises](#JavaScript-Promises)
-- [Async/Await Function](#Async/Await-Function-in-JavaScript)
+- [Async/Await Function](#Async-Await-Function-in-JavaScript)
 - [Test-Driven Development](#test-driven-development)
 
 # Event Loop
@@ -57,7 +57,7 @@ This is one of the greatest advantages of using Promises, but why?
 
 Callback functions have been used alone for asynchronous operations in JavaScript for many years. But in some cases, using Promises can be a better option.
 
-# Async/Await Function in JavaScript
+# Async Await Function in JavaScript
 
 We all know that Javascript is a Synchronous which means that it has an event loop that allows you to queue up an action that won’t take place until the loop is available sometime after the code that queued the action has finished executing. But there’s a lot of functionalities in our program which makes our code Asynchronous. One of them is the Async/Await functionality.
 
