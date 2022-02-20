@@ -1,7 +1,7 @@
 # Content
 
 - [JS callback functions](#JavaScript-Callback-Functions)
-- [JS Promises](#js-promises)
+- [JS Promises](#JavaScript-Promises)
 - [Async/Await Function](#Async/Await-Function-in-JavaScript)
 - [Test-Driven Development](#test-driven-development)
 
