@@ -1,8 +1,8 @@
 # Content
 
-- [JS callback functions](#JavaScript-Callback-Functions)
-- [JS Promises](#JavaScript-Promises)
-- [Async/Await Function](#Async-Await-Function-in-JavaScript)
+- [JS callback functions](#javascript-callback-functions)
+- [JS Promises](#javascript-promises)
+- [Async/Await Function](#async-await-function-in-javascript)
 - [Test-Driven Development](#test-driven-development)
 
 # Event Loop
