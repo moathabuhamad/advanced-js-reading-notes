@@ -5,3 +5,4 @@
 ## [02-Express-Rest](02-ExpressREST.md)
 ## [04-Linked-List](04-LinkedList.md)
 ## [05-Auth](05-Auth.md)
+## [07-BearerAuthorization](07-BearerAuthorization.md)
