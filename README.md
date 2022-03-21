@@ -10,3 +10,4 @@
 ## [09-RBAC](09-RBAC.md)
 ## [Stack and Que](stack-and-que.md)
 ## [12-Socketio](12-Socketio.md)
+## [13-Message Queues](13-msgQueues.md)
