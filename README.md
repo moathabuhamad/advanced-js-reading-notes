@@ -11,3 +11,4 @@
 ## [Stack and Que](stack-and-que.md)
 ## [12-Socketio](12-Socketio.md)
 ## [13-Message Queues](13-msgQueues.md)
+## [Trees](Trees.md)
