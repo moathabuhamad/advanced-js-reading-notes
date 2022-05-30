@@ -19,3 +19,4 @@
 ## [Context Api](./Context-Api.md)
 ## [Login-Auth](./Login-and-Auth.md)
 ## [Graphs](./Graphs.md)
+## [Redux-Combined-Reducer](./ReduxCombinedReducer.md)
