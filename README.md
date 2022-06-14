@@ -21,5 +21,5 @@
 ## [Graphs](./Graphs.md)
 ## [Redux-Combined-Reducer](./ReduxCombinedReducer.md)
 ## [ReactNative](./ReactNative.md)
-
+## [Ethics](./Ethics.md)
 ## [OSS](./OSS.md)
