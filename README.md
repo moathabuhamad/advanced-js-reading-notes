@@ -24,3 +24,4 @@
 ## [Ethics](./Ethics.md)
 ## [OSS](./OSS.md)
 ## [RTK](./RTK.md)
+## [Redux](./Redux.md)
